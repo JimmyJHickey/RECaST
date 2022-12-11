@@ -1,8 +1,8 @@
 # RECaST code repository
 
-This directory contains the code to reproduce the simulation results in the manuscript.
+This directory contains the code to reproduce the simulation results in the manuscript
 "Transfer Learning with Uncertainty Quantification:
-Random Effect Calibration of Source to Target (RECaST)"
+Random Effect Calibration of Source to Target (RECaST)".
 Please contact Jimmy Hickey at `jhickey@ncsu.edu` for any help or
 questions.
 
