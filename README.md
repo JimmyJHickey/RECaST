@@ -8,7 +8,7 @@ questions.
 
 ## File descriptions
 
-See workflow.sh for line-by-line Unix code for reproducing the results.
+See `pipeline.sh` for line-by-line Unix code for reproducing the results.
 
 
 `colmeans_missing.jl`
